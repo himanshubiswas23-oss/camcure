@@ -1,0 +1,1 @@
+This website updates you with latest defence and political news related to defence in everyday basis. You are also getting the best insights from the experts all over the world. Our target is to analyse the world defence scenario and its effects on around the globe.
