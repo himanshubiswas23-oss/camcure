@@ -1,0 +1,50 @@
+/* CamCur Defence News – Global Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #ffffff;
+  color: #003366;
+}
+
+header {
+  background: #004d00;
+  padding: 20px;
+  color: #ffffff;
+  text-align: center;
+}
+
+nav {
+  background: #e6f2ff;
+  padding: 12px;
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+}
+
+nav a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #003399;
+}
+
+nav a:hover {
+  color: #008000;
+}
+
+section {
+  padding: 40px;
+  max-width: 900px;
+  margin: auto;
+}
+
+h2 {
+  color: #004d00;
+}
+
+footer {
+  background: #003366;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 40px;
+}
